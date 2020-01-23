@@ -1,9 +1,14 @@
 #include <iostream>
+#include "client/client.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    Client* client = Client::Instance();
+    std::string host = "example.com";
+    client->SetHost(host);
+    boost::beast::http::response <boost::beast::http::string_body> res = client->Get("/hi/there", "?hand=wave");
+    std::cout << res << std::endl;
     return 0;
 }
