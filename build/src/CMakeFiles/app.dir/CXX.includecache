@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Tylor/Dev/IEEE_Server-Client/src/client.h
+boost/beast/core.hpp
+-
+boost/beast/http.hpp
+-
+boost/beast/version.hpp
+-
+boost/asio/connect.hpp
+-
+boost/asio/ip/tcp.hpp
+-
+string
+-
+
+/mnt/c/Users/Tylor/Dev/IEEE_Server-Client/src/main.cpp
+iostream
+-
+client.h
+/mnt/c/Users/Tylor/Dev/IEEE_Server-Client/src/client.h
+

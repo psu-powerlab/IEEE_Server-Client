@@ -1,0 +1,5 @@
+/mnt/c/Users/Tylor/Dev/IEEE_Server-Client/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Tylor/Dev/IEEE_Server-Client/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Tylor/Dev/IEEE_Server-Client/build/src/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Tylor/Dev/IEEE_Server-Client/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Tylor/Dev/IEEE_Server-Client/build/src/CMakeFiles/app.dir
